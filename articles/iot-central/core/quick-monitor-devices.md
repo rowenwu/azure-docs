@@ -36,7 +36,7 @@ The **Overview** view for the simulated device you created in the previous quick
 
 As an operator, you can view information about the device on the **Overview**, **About**, and **Commands** views. The builder created a **Manage device** view for you to edit device information and set device properties.
 
-The chart on the dashboard shows a plot of the device humidity. You decide that the device humidity is too high.
+The chart on the dashboard shows a plot of the device humidity data. From this dashboard, you can investigate the cause of the notification. For example, if the device sensor exceeded a threshold, you can observe when it occurred and the other sensor data surrounding the event.
 
 ## Remediate an issue
 
